@@ -1,0 +1,58 @@
+type: edu
+files:
+  - name: node.py
+    visible: true
+    placeholders:
+      - offset: 443
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 443
+        initialized_from_dependency: false
+        encrypted_possible_answer: A3SqrB3K16qnJ50Bqz1cY5CxQy4TFwLsQvgiQQ9Pqndc4ZGAbUzCzFeI2f3tHRDYrThZNiI0SzYx/bCU7+t6WEoJtGGLluSZjHQXX6raJ5unRvxzCQVsqnanGUi7TlrzsB8wfkIM45fpofWyOD1522jN0wPavw9/nk2diaMfC04=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: halloween.csv
+    visible: true
+    learner_created: false
+  - name: boo.jpg
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: calculate_entropy.py
+    visible: false
+    learner_created: false
+  - name: divide.py
+    visible: false
+    learner_created: false
+  - name: tree.py
+    visible: false
+    learner_created: false
+  - name: halloween.py
+    visible: false
+    learner_created: false
+  - name: RNA_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: example_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScqAfU990a9LiNolBdSrMVInejEmaMmyagLTJmhwUwjUysffg/viewform?usp=pp_url&entry.2103429047=Horror+Trees+/+Node
+status: Unchecked
+record: -1

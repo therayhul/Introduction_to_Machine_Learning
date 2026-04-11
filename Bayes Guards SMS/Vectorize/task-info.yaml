@@ -1,0 +1,94 @@
+type: edu
+files:
+  - name: vectorize.py
+    visible: true
+    placeholders:
+      - offset: 438
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 438
+        initialized_from_dependency: false
+        encrypted_possible_answer: hBKz1xW6hKoUWSiGuP9iOjwC4J1UH/N75GyjBdwHtAQ=
+        selected: false
+        status: Unchecked
+      - offset: 497
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 497
+        initialized_from_dependency: false
+        encrypted_possible_answer: C7RsqdqKxi3vLZoxQl7FFmqx4/nHOoh6EhB3tfOnslY=
+        selected: false
+        status: Unchecked
+      - offset: 656
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 656
+        initialized_from_dependency: false
+        encrypted_possible_answer: 910vWD24ZM8RPzMcnl4crihcm9gcddA2sjBNhZQ0Cc8=
+        selected: false
+        status: Unchecked
+      - offset: 792
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 792
+        initialized_from_dependency: false
+        encrypted_possible_answer: m4hbNxOe3rN2P2ODVxJJL1hkv3MfgHg72Vbo4UlPPRdInM/PtDhm4+Wv5bGJFekb1kqmurgbUAp+iG5PLYWu2A==
+        selected: false
+        status: Unchecked
+      - offset: 970
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 970
+        initialized_from_dependency: false
+        encrypted_possible_answer: C6k6Xv+4zCXPXMvVRC32fphr5bOHay9IVS7LDUk522HR6FCTSeCWEsSBrKDFGsZW
+        selected: false
+        status: Unchecked
+      - offset: 1031
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1031
+        initialized_from_dependency: false
+        encrypted_possible_answer: CQFxI0QuEpW2kW1Cv0MtbxASHDCZxq6s88XOucrvHz/JDlzJZdc5kK0epe2m6KyqjrP+Mvf6CbfDs4QEJlpdqn0Num4Ef/QyIi4KTTfHsPD7j7OfL8885i0lV2nS30yJ
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: spam.txt
+    visible: true
+    learner_created: false
+  - name: bayes.py
+    visible: false
+    learner_created: false
+  - name: Thomas_Bayes.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: smoothed_bayes.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScqAfU990a9LiNolBdSrMVInejEmaMmyagLTJmhwUwjUysffg/viewform?usp=pp_url&entry.2103429047=Bayes+Guards+SMS+/+Vectorize
+status: Unchecked
+record: -1

@@ -1,0 +1,53 @@
+type: edu
+files:
+  - name: evaluate.py
+    visible: true
+    placeholders:
+      - offset: 347
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 347
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPkKXeBJbZiOJkrkvOIxDNQYH8pvCKs77Pa2ix7BkuSFnfcxkMBy+CP6rcAg5L2SKiWej7BKJ2PVd9cQMGji0A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: network.py
+    visible: true
+    learner_created: false
+  - name: iris.csv
+    visible: true
+    learner_created: false
+  - name: activation.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: final.py
+    visible: false
+    learner_created: false
+  - name: neuron-scheme.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: neuralnet.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: derivative.py
+    visible: true
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

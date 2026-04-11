@@ -1,0 +1,41 @@
+type: theory
+files:
+  - name: pima-indians-diabetes.csv
+    visible: true
+    learner_created: false
+  - name: stochastic_gradient_descent.py
+    visible: true
+    learner_created: false
+  - name: gradient_descent.py
+    visible: true
+    learner_created: false
+  - name: loss_functions.py
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: pima.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: hyperplane.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: gradient-descent.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: precision_recall.py
+    visible: true
+    learner_created: false
+  - name: utils.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

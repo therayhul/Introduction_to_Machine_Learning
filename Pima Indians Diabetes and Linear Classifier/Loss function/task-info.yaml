@@ -1,0 +1,64 @@
+type: edu
+files:
+  - name: loss_functions.py
+    visible: true
+    placeholders:
+      - offset: 49
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 49
+        initialized_from_dependency: false
+        encrypted_possible_answer: WvYpdc95yUm7LrgVSYLSC6hPkpTDQWEahX+GB0JGRwz70LNhXizVPqIvI5AUF1DVg+jSeorIsCPiry/ZzrX1Ww==
+        selected: false
+        status: Unchecked
+      - offset: 90
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 90
+        initialized_from_dependency: false
+        encrypted_possible_answer: DtES6/5w3VKUIcVnUn1Xa2BDFDx4xVn50XTF/v3WpIgIV2UUl4oWDI54ECqqwsSGKwSeLwlXjEDR1I5YvNyzNw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: pima.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: hyperplane.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: gradient_descent.py
+    visible: false
+    learner_created: false
+  - name: utils.py
+    visible: false
+    learner_created: false
+  - name: stochastic_gradient_descent.py
+    visible: false
+    learner_created: false
+  - name: precision_recall.py
+    visible: false
+    learner_created: false
+  - name: gradient-descent.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: pima-indians-diabetes.csv
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

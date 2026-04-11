@@ -1,0 +1,88 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 256
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 256
+        initialized_from_dependency: false
+        encrypted_possible_answer: RbZLxLkXnXZCEYfg6jmzBbJ2wXyJT5+n6erS2d/iXlUZjU4mKu5x+QSk3zowIQW5
+        selected: false
+        status: Unchecked
+      - offset: 503
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 503
+        initialized_from_dependency: false
+        encrypted_possible_answer: K423FkLRFDqN1a1n+Gzm2lPvFimc0wUdrmHvzmB78XnXL+8oxKzuwPH+qD51mEFq
+        selected: false
+        status: Unchecked
+      - offset: 644
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 644
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0DreZE9xzio5DTk6rq3k/PU38C4XaNzw11wE9OiRA7BfAW7Ak9tupq8Mn2U5F5D8QyYgMI4VfVuonKO9/Y/kIA==
+        selected: false
+        status: Unchecked
+      - offset: 699
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 699
+        initialized_from_dependency: false
+        encrypted_possible_answer: tTzsQfdU5xE82Wc0/uCXGg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: pima-indians-diabetes.csv
+    visible: true
+    learner_created: false
+  - name: pima.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: loss_functions.py
+    visible: false
+    learner_created: false
+  - name: hyperplane.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: gradient_descent.py
+    visible: false
+    learner_created: false
+  - name: utils.py
+    visible: false
+    learner_created: false
+  - name: stochastic_gradient_descent.py
+    visible: false
+    learner_created: false
+  - name: precision_recall.py
+    visible: false
+    learner_created: false
+  - name: gradient-descent.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScQIQGOPF_e3hQMM-nK5CEvJYufaCWpIbESFFSAOmkI55M_7Q/viewform?usp=pp_url&entry.2103429047=Pima+Indians+and+Linear+Classifier+/+Read+Data
+status: Unchecked
+record: -1

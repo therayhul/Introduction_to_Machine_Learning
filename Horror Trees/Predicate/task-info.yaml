@@ -1,0 +1,84 @@
+type: edu
+files:
+  - name: divide.py
+    visible: true
+    placeholders:
+      - offset: 584
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 584
+        initialized_from_dependency: false
+        encrypted_possible_answer: UUNf/OooqvgTzP/nBF0M7EhabR6RFyjpCrU4F0j4+3HWRHFCa/TPzn1xP/g9iMg46xXtfMr7ypxbF3BLuctnMw==
+        selected: false
+        status: Unchecked
+      - offset: 611
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 611
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4tWh9R40otsnSDQ80+gTlZ1ueQR7ZgpAVsjB0W3qJz0=
+        selected: false
+        status: Unchecked
+      - offset: 775
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 775
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4tWh9R40otsnSDQ80+gTlXh5XEyxAarL2fucM3yDExg=
+        selected: false
+        status: Unchecked
+      - offset: 870
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 870
+        initialized_from_dependency: false
+        encrypted_possible_answer: sfmMtfbAj8AUXXdX28/aDSF9HNgbr1G6DlWRJKEfJDDEo9cXPX49HGHCrK1fmOy8
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: calculate_entropy.py
+    visible: true
+    learner_created: false
+  - name: node.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: halloween.csv
+    visible: true
+    learner_created: false
+  - name: boo.jpg
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tree.py
+    visible: false
+    learner_created: false
+  - name: halloween.py
+    visible: false
+    learner_created: false
+  - name: RNA_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: example_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

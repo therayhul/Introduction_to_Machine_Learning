@@ -1,0 +1,134 @@
+type: edu
+files:
+  - name: tree.py
+    visible: true
+    placeholders:
+      - offset: 994
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 994
+        initialized_from_dependency: false
+        encrypted_possible_answer: pX+8+rsM8wRcGsTiDW4SQPfQkmNgfUgG9UzUeWwoRkiw/WbAplyRIMzGqfnk01Ab
+        selected: false
+        status: Unchecked
+      - offset: 1164
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1164
+        initialized_from_dependency: false
+        encrypted_possible_answer: ynb/d3tYMJk9u2yKlcRcTogrA9YCnase7+e+mgWSfpg=
+        selected: false
+        status: Unchecked
+      - offset: 1239
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1239
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0rya9QBAk9ECqgB5w/PCgBvA700F4GTaNDXe90qLWT0=
+        selected: false
+        status: Unchecked
+      - offset: 1273
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1273
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0rya9QBAk9ECqgB5w/PCgL9U4nLkBNF9wxCdN7CQl/0=
+        selected: false
+        status: Unchecked
+      - offset: 1650
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1650
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5E4mXcVFlZnlsJDuP4gegqHHdJ6AQX/rEIQO/dVUucr/EqWyawRsm9iGJqsJj/3j
+        selected: false
+        status: Unchecked
+      - offset: 2236
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 2236
+        initialized_from_dependency: false
+        encrypted_possible_answer: A643njcVznnkIVD5ugk+M/u4h0b64vuEuoeD1u8IPE4=
+        selected: false
+        status: Unchecked
+      - offset: 2266
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 2266
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8DOmu43UNlzsHatr/6leTuTwPGtUlJgYnmpsxQ8BZIwHB4Mocp2D1CzWD5VS0JYW
+        selected: false
+        status: Unchecked
+      - offset: 2387
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 2387
+        initialized_from_dependency: false
+        encrypted_possible_answer: o/VJS1vhXsp0a2BPIE5DJQ==
+        selected: false
+        status: Unchecked
+      - offset: 2426
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 2426
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0v9umqwZ/5aUOrSCLLcrbw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: divide.py
+    visible: true
+    learner_created: false
+  - name: calculate_entropy.py
+    visible: true
+    learner_created: false
+  - name: node.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: halloween.csv
+    visible: true
+    learner_created: false
+  - name: boo.jpg
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: halloween.py
+    visible: false
+    learner_created: false
+  - name: RNA_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: example_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

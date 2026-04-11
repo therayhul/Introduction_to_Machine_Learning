@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: network.py
+    visible: true
+    learner_created: false
+  - name: iris.csv
+    visible: true
+    learner_created: false
+  - name: activation.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: evaluate.py
+    visible: false
+    learner_created: false
+  - name: final.py
+    visible: false
+    learner_created: false
+  - name: neuron-scheme.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: neuralnet.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: derivative.py
+    visible: true
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

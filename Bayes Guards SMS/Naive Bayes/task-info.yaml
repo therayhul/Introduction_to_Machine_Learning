@@ -1,0 +1,133 @@
+type: edu
+files:
+  - name: bayes.py
+    visible: true
+    placeholders:
+      - offset: 640
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 640
+        initialized_from_dependency: false
+        encrypted_possible_answer: U0EJuD1yk/Li7kI+/n/BiUwZGiVQOD1WfuhO7ATFWH4a6Z16X8BT98b2V4sCT68rRmK+qBnLJI+Rym7fJCgNfg==
+        selected: false
+        status: Unchecked
+      - offset: 682
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 682
+        initialized_from_dependency: false
+        encrypted_possible_answer: U0EJuD1yk/Li7kI+/n/BiUwZGiVQOD1WfuhO7ATFWH4a6Z16X8BT98b2V4sCT68rRmK+qBnLJI+Rym7fJCgNfg==
+        selected: false
+        status: Unchecked
+      - offset: 715
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 715
+        initialized_from_dependency: false
+        encrypted_possible_answer: V88GQTbKocZwI5lLbVWN4Mhau3EhGKj/YPWgvQCIxP+EV4aUyQCw/V0lGIIXrFv+wr1/JXHdkcndOGlcI0z/nXdZqm7tv6wfawFdMtPqEME=
+        selected: false
+        status: Unchecked
+      - offset: 890
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 890
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5VlyYA9o5AA84K59Cibt/w==
+        selected: false
+        status: Unchecked
+      - offset: 1053
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1053
+        initialized_from_dependency: false
+        encrypted_possible_answer: Z0HccYNI7lMnYucQU847gkROofB1qlAp/ZGGS6dj1JA=
+        selected: false
+        status: Unchecked
+      - offset: 1170
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1170
+        initialized_from_dependency: false
+        encrypted_possible_answer: YQTkF41lWsR21mEmPHtYE5jGfUafNDEkcJ5cpkc3Vhw=
+        selected: false
+        status: Unchecked
+      - offset: 1273
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1273
+        initialized_from_dependency: false
+        encrypted_possible_answer: XHsBWJwZ2G+LNNB1YG5CSr38cx7H0Bbbs5DWouyexj8=
+        selected: false
+        status: Unchecked
+      - offset: 1471
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1471
+        initialized_from_dependency: false
+        encrypted_possible_answer: XHsBWJwZ2G+LNNB1YG5CSkA7XeD0nSeGOL/JDvNrwJc=
+        selected: false
+        status: Unchecked
+      - offset: 1643
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1643
+        initialized_from_dependency: false
+        encrypted_possible_answer: MHk/3ryx2SDdJDN6Ia6sghxpn5DfC4F8f+HWqqmrFC8=
+        selected: false
+        status: Unchecked
+      - offset: 1683
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1683
+        initialized_from_dependency: false
+        encrypted_possible_answer: ztVGsZRWCuLW5K+tELL4FyOW89M+/1Mg/D/HV1ZZ1/QJEwsi1RqibMD8avzSOAZ8
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: vectorize.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: spam.txt
+    visible: true
+    learner_created: false
+  - name: Thomas_Bayes.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: smoothed_bayes.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

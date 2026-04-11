@@ -1,0 +1,108 @@
+type: edu
+files:
+  - name: gradient_descent.py
+    visible: true
+    placeholders:
+      - offset: 1095
+        length: 66
+        placeholder_text: "# TODO: Set M to the dot product of X and weights, multiplied\
+      \ by y"
+        initial_state:
+          length: 66
+          offset: 1095
+        initialized_from_dependency: false
+        encrypted_possible_answer: e0CTj4E4A2wVpL12g3SVbuEWQnc2vJE3ZRJjRcbCluQ=
+        selected: false
+        status: Unchecked
+      - offset: 1194
+        length: 59
+        placeholder_text: "# TODO: Calculate values using the instance's loss function"
+        initial_state:
+          length: 59
+          offset: 1194
+        initialized_from_dependency: false
+        encrypted_possible_answer: hT8ToCg5sXEk+YOH6/jesg==
+        selected: false
+        status: Unchecked
+      - offset: 1538
+        length: 28
+        placeholder_text: "# TODO: Write the expression"
+        initial_state:
+          length: 28
+          offset: 1538
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZfJEjQjhpopQU9YT/Yvhx8x/lkjMVwPdizXQuTJ78ytN7bSAqTwfYQ39/J11eCOe
+        selected: false
+        status: Unchecked
+      - offset: 1593
+        length: 26
+        placeholder_text: "# TODO: Update the weights"
+        initial_state:
+          length: 26
+          offset: 1593
+        initialized_from_dependency: false
+        encrypted_possible_answer: A50DIZ5vJmHCGhVM+ko8PuVMYP/AmudPyUsCdpkr8Pl45khKjx8ou+En9LuAYgaF
+        selected: false
+        status: Unchecked
+      - offset: 1991
+        length: 30
+        placeholder_text: "# TODO: Set it to the new ones"
+        initial_state:
+          length: 30
+          offset: 1991
+        initialized_from_dependency: false
+        encrypted_possible_answer: WsoMUO+1U/nWPUdtaf4Bsg==
+        selected: false
+        status: Unchecked
+      - offset: 2295
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 2295
+        initialized_from_dependency: false
+        encrypted_possible_answer: kBKYqxXZPfL6o4UI3M/UKkAK267li9hQb2YQiqj85vA=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: loss_functions.py
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: pima.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: hyperplane.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: stochastic_gradient_descent.py
+    visible: false
+    learner_created: false
+  - name: gradient-descent.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: pima-indians-diabetes.csv
+    visible: true
+    learner_created: false
+  - name: precision_recall.py
+    visible: true
+    learner_created: false
+  - name: utils.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

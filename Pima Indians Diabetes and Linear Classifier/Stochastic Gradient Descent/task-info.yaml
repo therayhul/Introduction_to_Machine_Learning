@@ -1,0 +1,75 @@
+type: edu
+files:
+  - name: stochastic_gradient_descent.py
+    visible: true
+    placeholders:
+      - offset: 1114
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1114
+        initialized_from_dependency: false
+        encrypted_possible_answer: cXPEAp6kHlWr0st9i/BSb3SrZuGil5tXgFbiMhawrMfH9PYqYjnzj+0NYxzp82ao
+        selected: false
+        status: Unchecked
+      - offset: 1146
+        length: 73
+        placeholder_text: "# TODO: Calculate the gradient using the current weights, X\
+      \ and y batches"
+        initial_state:
+          length: 73
+          offset: 1146
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6kHU+3JiqfMg/q+r6mHyCeDUNGh3VV09tzu66vdB0YR7CU8+ngPJqmGPOYYAM7oGR4i8f0/hI25BWjzlfX3P9A==
+        selected: false
+        status: Unchecked
+      - offset: 2170
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 2170
+        initialized_from_dependency: false
+        encrypted_possible_answer: p4VH0r/EN0nM1TRjwd5hw5Ow9z0kJnNq3mzD7a8BkZk=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: gradient_descent.py
+    visible: true
+    learner_created: false
+  - name: loss_functions.py
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: pima.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: hyperplane.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: gradient-descent.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: pima-indians-diabetes.csv
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: precision_recall.py
+    visible: true
+    learner_created: false
+  - name: utils.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

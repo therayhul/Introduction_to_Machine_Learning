@@ -1,0 +1,60 @@
+type: edu
+files:
+  - name: metric_classification.py
+    visible: true
+    placeholders:
+      - offset: 296
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 296
+        initialized_from_dependency: false
+        encrypted_possible_answer: dzj6goJl15tnNWNfnakWky9QeEby5rmC7SqGgXVT6pk=
+        selected: false
+        status: Unchecked
+      - offset: 398
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 398
+        initialized_from_dependency: false
+        encrypted_possible_answer: fcRV0hpRYJEc8QGIGkQWrkAWh9OyEtu0dB9tKkcMdhM=
+        selected: false
+        status: Unchecked
+      - offset: 540
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 540
+        initialized_from_dependency: false
+        encrypted_possible_answer: pnkCcgjHNb5EQFonKL/crmnmt8l+yT5UDxFNgARzYpGQskAzEAwkYeBauz7E1PL0
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: wine.csv
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: distances.py
+    visible: true
+    learner_created: false
+  - name: metrics.py
+    visible: false
+    learner_created: false
+  - name: crossvalidation.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScqAfU990a9LiNolBdSrMVInejEmaMmyagLTJmhwUwjUysffg/viewform?usp=pp_url&entry.2103429047=Neighbors+and+Wine+/+k-nearest+Neighbors
+status: Unchecked
+record: -1

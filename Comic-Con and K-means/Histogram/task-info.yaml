@@ -1,0 +1,68 @@
+type: edu
+files:
+  - name: plotting.py
+    visible: true
+    placeholders:
+      - offset: 250
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 250
+        initialized_from_dependency: false
+        encrypted_possible_answer: qTzlFe+89QRgJhoTTez7IZQw1pcNvKXYNAm+4ml8N2fBWsm9Sol6WwGZx0VjBACz
+        selected: false
+        status: Unchecked
+      - offset: 1196
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1196
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9uoZ8ziZBH6yR/p29bo8E7E7NP9lv/0tekASuE0bUxUwqs0Cd+pv5G29XPEVtVT8
+        selected: false
+        status: Unchecked
+      - offset: 1522
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 1522
+        initialized_from_dependency: false
+        encrypted_possible_answer: +X9rG+TkdlEB6sm7ycAaMA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: clustering.py
+    visible: true
+    learner_created: false
+  - name: distances.py
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: superman-batman.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: barchart.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: superman-batman-after.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: processing.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

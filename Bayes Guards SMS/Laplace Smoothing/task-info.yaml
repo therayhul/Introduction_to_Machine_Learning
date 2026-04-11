@@ -1,0 +1,73 @@
+type: edu
+files:
+  - name: smoothed_bayes.py
+    visible: true
+    placeholders:
+      - offset: 506
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 506
+        initialized_from_dependency: false
+        encrypted_possible_answer: U0EJuD1yk/Li7kI+/n/BiUwZGiVQOD1WfuhO7ATFWH4a6Z16X8BT98b2V4sCT68rRmK+qBnLJI+Rym7fJCgNfg==
+        selected: false
+        status: Unchecked
+      - offset: 548
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 548
+        initialized_from_dependency: false
+        encrypted_possible_answer: U0EJuD1yk/Li7kI+/n/BiUwZGiVQOD1WfuhO7ATFWH4a6Z16X8BT98b2V4sCT68rRmK+qBnLJI+Rym7fJCgNfg==
+        selected: false
+        status: Unchecked
+      - offset: 581
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 581
+        initialized_from_dependency: false
+        encrypted_possible_answer: V88GQTbKocZwI5lLbVWN4Mhau3EhGKj/YPWgvQCIxP+EV4aUyQCw/V0lGIIXrFv+CLwCu0GoLb63BIdf3oC9VEiOYwQZMMnAiZA2+omfqc9dpJaHKpG5oJgp8GVAX9Xn
+        selected: false
+        status: Unchecked
+      - offset: 657
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 657
+        initialized_from_dependency: false
+        encrypted_possible_answer: nNWw6cDqRa7cW0MVRcWZhYl42Tn3cUvVDTLhwSYXDo/0+zngthbHD9HVOIzZE6BzDOeZmxXjLOX1/Lc+OuWzFmU69bbjlXoClPR8Sg6TDisOlQkDT+CTvfl2CQdN/MAP5KTo9UG/DfFxQgoB2SqWQENklD8E6ANq9T9suzKw/QX/S8q/01k3x68fqQAXhbyZXrt7LdMrK6X0996eG/iP5cE/8ivCYbZD1z4KIadJQ/yM5v5h3P7dqt3SCma9fm0SL7U7JnXRZFJhKRXBewIzLV80Ki7XT+z0OsXQcjasNFVYfLxl1wQ+QfJuek1yOG3Mx1cwJO1dY8iRTJD75tNhAmC2o40JX0z4cGGfNvilx4kkf4BqjThLXCkag+pq3Qh3J2J4t5lJQWfj05I75YU8XDvChcLgl95G3iwHWpNx0mnDG1hOTgpPBYUVLG+QWk58IP3hhaw+2bP5UHzTofbZGvnuom2GIlKA9jPC/oJg4qj9zmPHIJcC+jY0IoprvDJRkCqK6Wh6AcaYLBbfpE9/3w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: bayes.py
+    visible: true
+    learner_created: false
+  - name: vectorize.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: spam.txt
+    visible: true
+    learner_created: false
+  - name: Thomas_Bayes.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

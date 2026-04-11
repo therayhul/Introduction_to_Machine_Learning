@@ -1,0 +1,69 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 153
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 153
+        initialized_from_dependency: false
+        encrypted_possible_answer: /RpB9iIHeYzvA18LlRGijtN4Yrwif1lEfsJOzuMO99Y=
+        selected: false
+        status: Unchecked
+      - offset: 221
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 221
+        initialized_from_dependency: false
+        encrypted_possible_answer: H3LXFU1nClO3x8Pn/RGwKPi/PAldFmP4WnJcdrd9Kh4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: superman-batman.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: tests/star.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/star.txt
+    visible: false
+    learner_created: false
+  - name: clustering.py
+    visible: false
+    learner_created: false
+  - name: distances.py
+    visible: false
+    learner_created: false
+  - name: plotting.py
+    visible: false
+    learner_created: false
+  - name: processing.py
+    visible: false
+    learner_created: false
+  - name: barchart.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: superman-batman-after.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScqAfU990a9LiNolBdSrMVInejEmaMmyagLTJmhwUwjUysffg/viewform?usp=pp_url&entry.2103429047=Comic-Con+and+k-means+/+Reading+an+Image
+status: Unchecked
+record: -1

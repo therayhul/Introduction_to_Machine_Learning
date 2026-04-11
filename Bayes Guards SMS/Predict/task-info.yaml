@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: smoothed_bayes.py
+    visible: true
+    learner_created: false
+  - name: bayes.py
+    visible: false
+    learner_created: false
+  - name: vectorize.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: spam.txt
+    visible: true
+    learner_created: false
+  - name: Thomas_Bayes.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

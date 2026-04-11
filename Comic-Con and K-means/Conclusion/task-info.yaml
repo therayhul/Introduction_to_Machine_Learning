@@ -1,0 +1,36 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: processing.py
+    visible: true
+    learner_created: false
+  - name: plotting.py
+    visible: true
+    learner_created: false
+  - name: clustering.py
+    visible: true
+    learner_created: false
+  - name: distances.py
+    visible: true
+    learner_created: false
+  - name: superman-batman.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: histogram.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: barchart.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: superman-batman-after.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

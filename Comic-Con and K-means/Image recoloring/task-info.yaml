@@ -1,0 +1,52 @@
+type: edu
+files:
+  - name: processing.py
+    visible: true
+    placeholders:
+      - offset: 465
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 465
+        initialized_from_dependency: false
+        encrypted_possible_answer: ganePADHb1wbDXoLirIWkIp1OqoL33tjangc4jC610Qdv3+du4Puu6gA1uPRNezWcRT155YP55qiRL9em+Ensg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: plotting.py
+    visible: true
+    learner_created: false
+  - name: clustering.py
+    visible: true
+    learner_created: false
+  - name: distances.py
+    visible: true
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: superman-batman.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: histogram.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: barchart.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: superman-batman-after.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

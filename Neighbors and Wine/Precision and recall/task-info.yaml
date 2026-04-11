@@ -1,0 +1,80 @@
+type: edu
+files:
+  - name: metrics.py
+    visible: true
+    placeholders:
+      - offset: 297
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 297
+        initialized_from_dependency: false
+        encrypted_possible_answer: DuTc4lrVxrMWsElVpi4GXUynfM/xHFGWS4sBL8+bCB5E+dvmpHZjs3pl4uK9KVQJg/MVZj6OVFjvqeW9Vi7iOLY2DngFO4UR3jVef5+W4/4=
+        selected: false
+        status: Unchecked
+      - offset: 377
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 377
+        initialized_from_dependency: false
+        encrypted_possible_answer: DuTc4lrVxrMWsElVpi4GXUynfM/xHFGWS4sBL8+bCB5E+dvmpHZjs3pl4uK9KVQJg/MVZj6OVFjvqeW9Vi7iOCBonbAFPNOIx7ncOeWums8=
+        selected: false
+        status: Unchecked
+      - offset: 457
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 457
+        initialized_from_dependency: false
+        encrypted_possible_answer: DuTc4lrVxrMWsElVpi4GXUONhrkGdDTkgxkxxLbX916+/RHu5nd8seuAt4wNuAhRm4d9scig+H4xQK2UzueJ2FH2JuhqOC9UQ2Zw99EorKY=
+        selected: false
+        status: Unchecked
+      - offset: 542
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 542
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2Aa+/Yx3V7wIRgcO8W0UuwhrUjU+qC5cQ25yoiThfGNyYrE1SxlYrlmqrXoopa3q
+        selected: false
+        status: Unchecked
+      - offset: 621
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 621
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4dVdUxEX1xWenzTEjkffXl0E/W/Nn9m2SgCynvHg4qB/GqJ/kFsg917RoAJ63em0
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+  - name: wine.csv
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: distances.py
+    visible: true
+    learner_created: false
+  - name: crossvalidation.py
+    visible: false
+    learner_created: false
+  - name: metric_classification.py
+    visible: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScqAfU990a9LiNolBdSrMVInejEmaMmyagLTJmhwUwjUysffg/viewform?usp=pp_url&entry.2103429047=Neighbors+and+Wine+/+Precision+and+Recall
+status: Unchecked
+record: -1

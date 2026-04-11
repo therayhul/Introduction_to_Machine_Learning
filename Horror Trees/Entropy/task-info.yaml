@@ -1,0 +1,74 @@
+type: edu
+files:
+  - name: calculate_entropy.py
+    visible: true
+    placeholders:
+      - offset: 137
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 137
+        initialized_from_dependency: false
+        encrypted_possible_answer: xUKAJG1Tk9vNX80U6zG134Jr5HnGPS8WQjHFWHBFP383m7P786L53Es0okhuDCqI
+        selected: false
+        status: Unchecked
+      - offset: 267
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 267
+        initialized_from_dependency: false
+        encrypted_possible_answer: qpXZwIkAMCADm9uRCtxVoA==
+        selected: false
+        status: Unchecked
+      - offset: 411
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 411
+        initialized_from_dependency: false
+        encrypted_possible_answer: gTxdF0WXwYfAniXnn9NyLlwhUGgBGhzGdACwX31u2tY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: node.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: halloween.csv
+    visible: true
+    learner_created: false
+  - name: boo.jpg
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: divide.py
+    visible: false
+    learner_created: false
+  - name: tree.py
+    visible: false
+    learner_created: false
+  - name: halloween.py
+    visible: false
+    learner_created: false
+  - name: RNA_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: example_tree.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

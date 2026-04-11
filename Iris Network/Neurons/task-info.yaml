@@ -1,0 +1,54 @@
+type: edu
+files:
+  - name: activation.py
+    visible: true
+    placeholders:
+      - offset: 182
+        length: 6
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 182
+        initialized_from_dependency: false
+        encrypted_possible_answer: PhtWWr0TpDHbfjQpPUz9k9siY5F1OPC/BurViqoip64=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: iris.csv
+    visible: true
+    learner_created: false
+  - name: network.py
+    visible: false
+    learner_created: false
+  - name: derivative.py
+    visible: false
+    learner_created: false
+  - name: evaluate.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: final.py
+    visible: false
+    learner_created: false
+  - name: neuron-scheme.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: neuralnet.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: task.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScqAfU990a9LiNolBdSrMVInejEmaMmyagLTJmhwUwjUysffg/viewform?usp=pp_url&entry.2103429047=Iris+Network+/+Neurons
+status: Unchecked
+record: -1
